@@ -6,7 +6,7 @@
   "scripts": {
     "clean": "rimraf ./dist",
     "build": "tsc",
-    "start": "npm run clean && npm run build && node dist/index.js",
+    "start": "npm run build && node dist/examples3.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

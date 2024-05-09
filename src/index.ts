@@ -1,3 +1,3 @@
 // src/index.ts
-const message: string = "Hello, TypeScript with Node.js!";
-console.log(message);
+const message1: string = "Hello, TypeScript with Node.js!";
+console.log(message1);
