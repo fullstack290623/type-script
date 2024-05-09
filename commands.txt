@@ -2,6 +2,7 @@ npm init -y
 npm i typescript --save-dev
 npx tsc --init
 npm install ts-node --save-dev
+npm install rimraf --save-dev
 
 sample code:
 src\index.ts
